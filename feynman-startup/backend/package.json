@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/package.json",
   "name": "feynman-backend",
   "version": "1.0.0",
   "type": "module",
